@@ -14,3 +14,5 @@ The application is under development. Setup and run instructions will be added w
 
 ## Documents
 - Phase 2 (SRS): [CSAI203_SRS_Team00_202510874.pdf](docs/CSAI203_SRS_Team00_202510874.pdf)
+
+- Phase 3 (Design): [CSAI203_Design_Team05_202510874.pdf](docs/CSAI203_Design_Team05_202510874.pdf)
